@@ -1,0 +1,40 @@
+th, td{
+    padding: 5px 10px;
+    text-align: center;
+}
+th{
+background-color:black;
+color: rgb(255, 221, 0);
+}
+.table-div{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.name{
+    background-color: #7f3700;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.color{
+   background-color: #7f3700;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nam{
+    background-color: rgb(244, 203, 0);
+    color: black;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.colo{
+    background-color: rgb(244, 203, 0);
+    color: black;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
